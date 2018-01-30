@@ -37,19 +37,16 @@ Run the below command from the command prompt:
 
 - Perplexity on test set for __simple interpolation__ - 79.80
 
-
-
 - Sample sentences generated using __add-1 smoothing__:
- - well , then i think , uh , got a bunch of lakes in our national
- -  i grow up with this five day waiting period is one of the upper peninsula ,
- -  we , we , uh , barbecue and tell me how to say in germany .
- -  and i felt real safe with their ten key or something like that ?
- -  raised it up in front of my boys .
- 
- 
+    -  well , then i think , uh , got a bunch of lakes in our national
+    -  i grow up with this five day waiting period is one of the upper peninsula ,
+    -  we , we , uh , barbecue and tell me how to say in germany .
+    -  and i felt real safe with their ten key or something like that ?
+    -  raised it up in front of my boys .
+
 - Sample sentences generated using __simple interpolation method__:
- - know , those things , i saw in the water ,
- - mean , i only had a pretty , you know , to , we kind of running around when you do n't really do n't know
- - he , uh , they all do , i have n't
- - uh , now i do about that
- - i go , and then you 've , we used to take their <UNK> <UNK> the , you know ,
+    - know , those things , i saw in the water ,
+    - mean , i only had a pretty , you know , to , we kind of running around when you do n't really do n't know
+    - he , uh , they all do , i have n't
+    - uh , now i do about that
+    - i go , and then you 've , we used to take their <UNK> <UNK> the , you know ,
